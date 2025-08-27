@@ -1,0 +1,16 @@
+{
+  "quantum.text.cmd.world.exists": "A world with the name %d already exists.",
+  "quantum.text.cmd.world.notexists": "A world with the name %d does not exist or was not created with Quantum.",
+  "quantum.text.cmd.world.notexists.unspecified": "The specified world doesn't exists.",
+  "quantum.text.cmd.world.created": "§aThe world §6§l%d §ahas been successfully created",
+  "quantum.text.cmd.world.deleted": "§aThe world §6§l%d §ahas been successfully deleted",
+  "quantum.text.cmd.world.spawnset": "§aThe spawn point of the world §6§l%d §ahas been successfully set",
+  "quantum.text.cmd.world.spawnset.position": "§cX§f: %d §aY§f: %d §9Z§f: %d §cYaw§f: %d §aPitch§f: %d",
+  "quantum.text.cmd.sign.lookat": "You must look at a sign to set it as a teleporter.",
+  "quantum.text.cmd.sign.failed": "An error occurred while trying to set the destination of this sign.",
+  "quantum.text.cmd.sign.success": "§aThe destination of the sign has been set to §6§l%d",
+  "quantum.text.cmd.portal.exists": "A portal with the same block already exists",
+  "quantum.text.cmd.portal.created": "§aThe portal has been successfully created",
+  "quantum.text.cmd.portal.deleted": "§aThe portal has been successfully deleted"
+
+}
