@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "multiworldborders",
+  "version": "${version}",
+  "name": "Multi World Borders",
+  "description": "Makes world borders work per dimension + QuantumMod Worlds",
+  "authors": [
+    "Potatoboy9999(Creator)",
+    "Gabrieli2806(QuantumMod Compatibility)"
+  ],
+  "contact": {
+    "issues": "https://github.com/PotatoPresident/worldborderfixer/issues",
+    "sources": "https://github.com/PotatoPresident/worldborderfixer",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/world-border-fix"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/ByaVuebAPb"
+      }
+    }
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "us.potatoboy.worldborderfix.MultiWorldBorder"
+    ]
+  },
+  "mixins": [
+    "multiworldborders.mixins.json"
+  ],
+  "depends": {
+    "fabric-object-builder-api-v1": "*",
+    "fabricloader": ">=0.15.10",
+    "minecraft": ">=1.20.5-"
+  }
+}

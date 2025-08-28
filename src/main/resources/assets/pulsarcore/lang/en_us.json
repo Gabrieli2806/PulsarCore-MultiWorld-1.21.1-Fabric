@@ -1,0 +1,16 @@
+{
+  "pulsarcore.text.cmd.world.exists": "A world with the name %d already exists.",
+  "pulsarcore.text.cmd.world.notexists": "A world with the name %d does not exist or was not created with PulsarCore.",
+  "pulsarcore.text.cmd.world.notexists.unspecified": "The specified world doesn't exists.",
+  "pulsarcore.text.cmd.world.created": "§aThe world §6§l%d §ahas been successfully created",
+  "pulsarcore.text.cmd.world.deleted": "§aThe world §6§l%d §ahas been successfully deleted",
+  "pulsarcore.text.cmd.world.spawnset": "§aThe spawn point of the world §6§l%d §ahas been successfully set",
+  "pulsarcore.text.cmd.world.spawnset.position": "§cX§f: %d §aY§f: %d §9Z§f: %d §cYaw§f: %d §aPitch§f: %d",
+  "pulsarcore.text.cmd.sign.lookat": "You must look at a sign to set it as a teleporter.",
+  "pulsarcore.text.cmd.sign.failed": "An error occurred while trying to set the destination of this sign.",
+  "pulsarcore.text.cmd.sign.success": "§aThe destination of the sign has been set to §6§l%d",
+  "pulsarcore.text.cmd.portal.exists": "A portal with the same block already exists",
+  "pulsarcore.text.cmd.portal.created": "§aThe portal has been successfully created",
+  "pulsarcore.text.cmd.portal.deleted": "§aThe portal has been successfully deleted"
+
+}

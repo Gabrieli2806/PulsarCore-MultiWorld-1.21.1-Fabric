@@ -1,0 +1,20 @@
+{
+	"required": true,
+	"package": "com.g2806.pulsarcore.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"MinecraftServerMixin",
+		"PlayerManagerMixin",
+		"ServerPlayerEntityMixin",
+		"ServerWorldMixin",
+		"WorldBorderCenterChangedS2CPacketMixin",
+		"WorldBorderCommandMixin",
+		"WorldBorderInitializeS2CPacketMixin",
+		"WorldBorderMixin",
+		"WorldMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
